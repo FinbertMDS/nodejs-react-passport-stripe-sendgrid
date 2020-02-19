@@ -1,0 +1,4 @@
+export const FETCH_USER = 'FETCH_USER';
+export const FETCH_CHARGE = 'FETCH_CHARGE';
+export const FETCH_CUSTOMER = 'FETCH_CUSTOMER';
+export const CREATE_SURVEY = 'CREATE_SURVEY';
