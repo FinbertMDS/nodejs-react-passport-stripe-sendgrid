@@ -1,0 +1,10 @@
+module.exports = {
+  googleClientID: '380205662704-v88hs4vq02kcdvtl6564fnq5e9q2kfj4.apps.googleusercontent.com',
+  googleClientSecret: 'G7Np0lkApFVaqAsa-hjOcm-e',
+  mongoURI: 'mongodb://localhost:27017/test',
+  cookieKey: 'key1',
+  stripePublishableKey: 'pk_test_x6w6cSHU9fwZB3Xa9ABO8PJh',
+  stripeSecretKey: 'sk_test_Vj1xEMl6xQ6gFmAO5LBWz7mt',
+  sendGridKey: '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',
+  redirectDomain: 'http://192.168.56.1:5000/'
+};
